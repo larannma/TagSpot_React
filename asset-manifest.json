@@ -1,10 +1,28 @@
 {
   "files": {
-    "main.js": "/tagspot_react/static/js/main.412a6f34.js",
+    "main.css": "/tagspot_react/static/css/main.c44db0e0.css",
+    "main.js": "/tagspot_react/static/js/main.44605bd4.js",
+    "static/media/user.png": "/tagspot_react/static/media/user.64c9d7d6c6e718083a1c.png",
+    "static/media/pt-root-ui_light.woff": "/tagspot_react/static/media/pt-root-ui_light.8bf08d3a5b04f523d0d4.woff",
+    "static/media/pt-root-ui_medium.woff": "/tagspot_react/static/media/pt-root-ui_medium.e24244df074291681cd3.woff",
+    "static/media/pt-root-ui_bold.woff": "/tagspot_react/static/media/pt-root-ui_bold.f82344daaacb5424b169.woff",
+    "static/media/pt-root-ui_regular.woff": "/tagspot_react/static/media/pt-root-ui_regular.ea7178e3e5d27a1d3248.woff",
+    "static/media/pt-root-ui_light.woff2": "/tagspot_react/static/media/pt-root-ui_light.f0497492db8214d4938e.woff2",
+    "static/media/pt-root-ui_bold.woff2": "/tagspot_react/static/media/pt-root-ui_bold.f31c5219b0912845f393.woff2",
+    "static/media/pt-root-ui_medium.woff2": "/tagspot_react/static/media/pt-root-ui_medium.6f2ccf4ac327e1d6507e.woff2",
+    "static/media/pt-root-ui_regular.woff2": "/tagspot_react/static/media/pt-root-ui_regular.b43dba986b9cde356afd.woff2",
+    "static/media/sber.svg": "/tagspot_react/static/media/sber.5bfcef763bc6c780d72746f0bc291286.svg",
+    "static/media/tagspot.svg": "/tagspot_react/static/media/tagspot.56e44feee1f310c15bad57cb4a6f9c94.svg",
+    "static/media/sbp.svg": "/tagspot_react/static/media/sbp.11c41cb8326cb6ef796cae1868001a14.svg",
+    "static/media/lupa.svg": "/tagspot_react/static/media/lupa.284b84788cd8838fc26ad2940ff4e827.svg",
+    "static/media/Альфа.svg": "/tagspot_react/static/media/Альфа.40d0eedc424049c4e5699cc37b472160.svg",
+    "static/media/telegram.svg": "/tagspot_react/static/media/telegram.c1ae7ed788e853711b9549fcb2b44dd3.svg",
     "index.html": "/tagspot_react/index.html",
-    "main.412a6f34.js.map": "/tagspot_react/static/js/main.412a6f34.js.map"
+    "main.c44db0e0.css.map": "/tagspot_react/static/css/main.c44db0e0.css.map",
+    "main.44605bd4.js.map": "/tagspot_react/static/js/main.44605bd4.js.map"
   },
   "entrypoints": [
-    "static/js/main.412a6f34.js"
+    "static/css/main.c44db0e0.css",
+    "static/js/main.44605bd4.js"
   ]
 }
